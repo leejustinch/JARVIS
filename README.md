@@ -1,3 +1,3 @@
 # Readme
 
-This is a repo for the CS 147 project.
+This is a repo for Justin's CS 147 project.
